@@ -1,0 +1,42 @@
+1. Technical Requirements
+Library: Use the pandas library for all data manipulation and analysis.
+
+Data Handling: * Load the data from a CSV file.
+
+Inspect and handle missing values (e.g., filling them with zeros or removing them).
+
+Remove any duplicate entries to ensure accuracy.
+
+Calculations: You must calculate at least 3 different metrics. In your project, we calculated:
+
+Total Revenue
+
+Average Order Value
+
+Best-Selling Product (by Revenue and Quantity)
+
+Top Performing Region
+
+Output: Create a clean, formatted report that is easy for a human to read (using headers, lines, and currency formatting).
+
+Documentation: Add comments 
+
+2. Procedural Requirements 
+The project is designed to be completed over 5 days to build a habit of structured analysis:
+
+Day 1 (Setup): Install the necessary tools and get the file into your Python environment.
+
+Day 2 (Exploration): Use commands like .info(), .head(), and .shape to understand what you are working with.
+
+Day 3 (Cleaning): Fix the "dirty" parts of the data (empty cells or double-entries).
+
+Day 4 (Analysis): Use math functions like .sum(), .mean(), and .groupby() to find the insights.
+
+Day 5 (Reporting): Use print() statements and f-strings (formatted strings) to present your findings professionally.
+
+3. Skills Required 
+Basic Python: Understanding variables, strings, and print statements.
+
+Pandas Basics: Knowing how to filter columns and group data.
+
+Logical Thinking: Deciding which metrics actually matter to a business (e.g., knowing that "Total Sales" is more important than "Customer ID numbers").
