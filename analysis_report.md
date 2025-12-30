@@ -1,6 +1,6 @@
 Sales Performance Analysis Report
 Project: Week 3 - Sales Data Analysis
-Author: Ganesh Biradar
+Author: Ganesh Ghumare
 Date: December 2025
 
 
